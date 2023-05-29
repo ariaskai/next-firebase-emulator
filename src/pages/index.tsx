@@ -1,0 +1,5 @@
+import {Example} from 'components/Main'
+
+export default function Home() {
+  return <Example />
+}
